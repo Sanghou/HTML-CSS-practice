@@ -2,10 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf9565c1-0ecd-4519-a8a7-768ab95faba3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/javascriptClockUI/clock.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javascriptClockUI/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javascriptClockUI/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2020_March/rippleButton/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2020_March/rippleButton/style.css" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/2_5dParallaxEffects/bg.jpg" afterPath="$PROJECT_DIR$/2020_March/2_5dParallaxEffects/bg.jpg" />
+      <change beforePath="$PROJECT_DIR$/2_5dParallaxEffects/img.png" afterPath="$PROJECT_DIR$/2020_March/2_5dParallaxEffects/img.png" />
+      <change beforePath="$PROJECT_DIR$/2_5dParallaxEffects/index.html" afterPath="$PROJECT_DIR$/2020_March/2_5dParallaxEffects/index.html" />
+      <change beforePath="$PROJECT_DIR$/2_5dParallaxEffects/style.css" afterPath="$PROJECT_DIR$/2020_March/2_5dParallaxEffects/style.css" />
+      <change beforePath="$PROJECT_DIR$/CreativeMenuItem/index.html" afterPath="$PROJECT_DIR$/2020_March/CreativeMenuItem/index.html" />
+      <change beforePath="$PROJECT_DIR$/CreativeMenuItem/style.css" afterPath="$PROJECT_DIR$/2020_March/CreativeMenuItem/style.css" />
+      <change beforePath="$PROJECT_DIR$/MansonryLayout/1.png" afterPath="$PROJECT_DIR$/2020_March/MansonryLayout/1.png" />
+      <change beforePath="$PROJECT_DIR$/MansonryLayout/2.png" afterPath="$PROJECT_DIR$/2020_March/MansonryLayout/2.png" />
+      <change beforePath="$PROJECT_DIR$/MansonryLayout/3.png" afterPath="$PROJECT_DIR$/2020_March/MansonryLayout/3.png" />
+      <change beforePath="$PROJECT_DIR$/MansonryLayout/4.png" afterPath="$PROJECT_DIR$/2020_March/MansonryLayout/4.png" />
+      <change beforePath="$PROJECT_DIR$/MansonryLayout/5.png" afterPath="$PROJECT_DIR$/2020_March/MansonryLayout/5.png" />
+      <change beforePath="$PROJECT_DIR$/MansonryLayout/6.png" afterPath="$PROJECT_DIR$/2020_March/MansonryLayout/6.png" />
+      <change beforePath="$PROJECT_DIR$/MansonryLayout/7.png" afterPath="$PROJECT_DIR$/2020_March/MansonryLayout/7.png" />
+      <change beforePath="$PROJECT_DIR$/MansonryLayout/index.html" afterPath="$PROJECT_DIR$/2020_March/MansonryLayout/index.html" />
+      <change beforePath="$PROJECT_DIR$/MansonryLayout/style.css" afterPath="$PROJECT_DIR$/2020_March/MansonryLayout/style.css" />
+      <change beforePath="$PROJECT_DIR$/ProductCardUIDesign/index.html" afterPath="$PROJECT_DIR$/2020_March/ProductCardUIDesign/index.html" />
+      <change beforePath="$PROJECT_DIR$/ProductCardUIDesign/shoes.png" afterPath="$PROJECT_DIR$/2020_March/ProductCardUIDesign/shoes.png" />
+      <change beforePath="$PROJECT_DIR$/ProductCardUIDesign/style.css" afterPath="$PROJECT_DIR$/2020_March/ProductCardUIDesign/style.css" />
+      <change beforePath="$PROJECT_DIR$/SVGStrokeAnimation/heart.svg" afterPath="$PROJECT_DIR$/2020_March/SVGStrokeAnimation/heart.svg" />
+      <change beforePath="$PROJECT_DIR$/SVGStrokeAnimation/index.html" afterPath="$PROJECT_DIR$/2020_March/SVGStrokeAnimation/index.html" />
+      <change beforePath="$PROJECT_DIR$/SVGStrokeAnimation/moon.svg" afterPath="$PROJECT_DIR$/2020_March/SVGStrokeAnimation/moon.svg" />
+      <change beforePath="$PROJECT_DIR$/SVGStrokeAnimation/star.svg" afterPath="$PROJECT_DIR$/2020_March/SVGStrokeAnimation/star.svg" />
+      <change beforePath="$PROJECT_DIR$/SVGStrokeAnimation/style.css" afterPath="$PROJECT_DIR$/2020_March/SVGStrokeAnimation/style.css" />
+      <change beforePath="$PROJECT_DIR$/Scroll Progress Bar/index.html" afterPath="$PROJECT_DIR$/2020_March/Scroll Progress Bar/index.html" />
+      <change beforePath="$PROJECT_DIR$/Scroll Progress Bar/style.css" afterPath="$PROJECT_DIR$/2020_March/Scroll Progress Bar/style.css" />
+      <change beforePath="$PROJECT_DIR$/Skewed Border/index.html" afterPath="$PROJECT_DIR$/2020_March/Skewed Border/index.html" />
+      <change beforePath="$PROJECT_DIR$/Skewed Border/style.css" afterPath="$PROJECT_DIR$/2020_March/Skewed Border/style.css" />
+      <change beforePath="$PROJECT_DIR$/Wave Shape Banner/food.jpg" afterPath="$PROJECT_DIR$/2020_March/Wave Shape Banner/food.jpg" />
+      <change beforePath="$PROJECT_DIR$/Wave Shape Banner/index.html" afterPath="$PROJECT_DIR$/2020_March/Wave Shape Banner/index.html" />
+      <change beforePath="$PROJECT_DIR$/Wave Shape Banner/style.css" afterPath="$PROJECT_DIR$/2020_March/Wave Shape Banner/style.css" />
+      <change beforePath="$PROJECT_DIR$/calculator/index.html" afterPath="$PROJECT_DIR$/2020_March/calculator/index.html" />
+      <change beforePath="$PROJECT_DIR$/calculator/style.css" afterPath="$PROJECT_DIR$/2020_March/calculator/style.css" />
+      <change beforePath="$PROJECT_DIR$/css_arrow/index.html" afterPath="$PROJECT_DIR$/2020_March/css_arrow/index.html" />
+      <change beforePath="$PROJECT_DIR$/css_arrow/style.css" afterPath="$PROJECT_DIR$/2020_March/css_arrow/style.css" />
+      <change beforePath="$PROJECT_DIR$/javascriptClockUI/clock.png" afterPath="$PROJECT_DIR$/2020_March/javascriptClockUI/clock.png" />
+      <change beforePath="$PROJECT_DIR$/javascriptClockUI/index.html" afterPath="$PROJECT_DIR$/2020_March/javascriptClockUI/index.html" />
+      <change beforePath="$PROJECT_DIR$/javascriptClockUI/style.css" afterPath="$PROJECT_DIR$/2020_March/javascriptClockUI/style.css" />
+      <change beforePath="$PROJECT_DIR$/parallelScrollEffect/bg.jpg" afterPath="$PROJECT_DIR$/2020_March/parallelScrollEffect/bg.jpg" />
+      <change beforePath="$PROJECT_DIR$/parallelScrollEffect/index.html" afterPath="$PROJECT_DIR$/2020_March/parallelScrollEffect/index.html" />
+      <change beforePath="$PROJECT_DIR$/parallelScrollEffect/moon.png" afterPath="$PROJECT_DIR$/2020_March/parallelScrollEffect/moon.png" />
+      <change beforePath="$PROJECT_DIR$/parallelScrollEffect/mountain.png" afterPath="$PROJECT_DIR$/2020_March/parallelScrollEffect/mountain.png" />
+      <change beforePath="$PROJECT_DIR$/parallelScrollEffect/road.png" afterPath="$PROJECT_DIR$/2020_March/parallelScrollEffect/road.png" />
+      <change beforePath="$PROJECT_DIR$/parallelScrollEffect/style.css" afterPath="$PROJECT_DIR$/2020_March/parallelScrollEffect/style.css" />
+      <change beforePath="$PROJECT_DIR$/rippleButton/index.html" afterPath="$PROJECT_DIR$/2020_March/AnimatedEyesFollowMouse/index.html" />
+      <change beforePath="$PROJECT_DIR$/rippleButton/style.css" afterPath="$PROJECT_DIR$/2020_March/AnimatedEyesFollowMouse/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,27 +63,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascriptClockUI/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2020_March/AnimatedEyesFollowMouse/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="34" column="3" lean-forward="false" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+            <state relative-caret-position="439">
+              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascriptClockUI/style.css">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2020_March/AnimatedEyesFollowMouse/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-23">
-              <caret line="47" column="11" lean-forward="true" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
+            <state relative-caret-position="140">
+              <caret line="101" column="10" lean-forward="false" selection-start-line="101" selection-start-column="1" selection-end-line="101" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>container</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,6 +100,9 @@
         <option value="$PROJECT_DIR$/CreativeMenuItem/style.css" />
         <option value="$PROJECT_DIR$/javascriptClockUI/style.css" />
         <option value="$PROJECT_DIR$/javascriptClockUI/index.html" />
+        <option value="$PROJECT_DIR$/2_5dParallaxEffects/style.css" />
+        <option value="$PROJECT_DIR$/2020_March/AnimatedEyesFollowMouse/style.css" />
+        <option value="$PROJECT_DIR$/2020_March/AnimatedEyesFollowMouse/index.html" />
       </list>
     </option>
   </component>
@@ -66,10 +118,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="976" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="951" />
+    <option name="y" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -88,6 +141,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -98,13 +152,24 @@
             <path>
               <item name="Youtube" type="b2602c69:ProjectViewProjectNode" />
               <item name="Youtube" type="462c0819:PsiDirectoryNode" />
-              <item name="javascriptClockUI" type="462c0819:PsiDirectoryNode" />
+              <item name="2020_March" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Youtube" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Youtube" type="462c0819:PsiDirectoryNode" />
+              <item name="2020_March" type="462c0819:PsiDirectoryNode" />
+              <item name="AnimatedEyesFollowMouse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Youtube" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Youtube" type="462c0819:PsiDirectoryNode" />
+              <item name="2020_March" type="462c0819:PsiDirectoryNode" />
+              <item name="rippleButton" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -116,10 +181,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tkdgh\Desktop\HTML,CSS_Practice\Youtube\2020_March" />
       <recent name="C:\Users\tkdgh\Desktop\HTML,CSS_Practice\Youtube\javascriptClockUI" />
       <recent name="C:\Users\tkdgh\Desktop\HTML,CSS_Practice\Youtube\CreativeMenuItem" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tkdgh\Desktop\HTML,CSS_Practice\Youtube\2020_March\AnimatedEyesFollowMouse" />
       <recent name="C:\Users\tkdgh\Desktop\HTML,CSS_Practice\Youtube\javascriptClockUI" />
     </key>
   </component>
@@ -149,43 +216,34 @@
       <option name="presentableId" value="Default" />
       <updated>1600839693923</updated>
       <workItem from="1600839695424" duration="59000" />
+      <workItem from="1604318865180" duration="5573000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4320000" />
+    <option name="totallyTimeSpent" value="10493000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="951" y="-9" width="978" height="1048" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24919441" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3227633" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -218,68 +276,42 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ProductCardUIDesign/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4255">
-          <caret line="185" column="0" lean-forward="false" selection-start-line="185" selection-start-column="0" selection-end-line="185" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProductCardUIDesign/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProductCardUIDesign/shoes.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProductCardUIDesign/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4255">
-          <caret line="185" column="0" lean-forward="true" selection-start-line="185" selection-start-column="0" selection-end-line="185" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calculator/style.css">
+    <entry file="file://$PROJECT_DIR$/2020_March/calculator/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/calculator/index.html">
+    <entry file="file://$PROJECT_DIR$/2020_March/calculator/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="63" lean-forward="false" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/calculator/style.css">
+    <entry file="file://$PROJECT_DIR$/2020_March/calculator/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/calculator/index.html">
+    <entry file="file://$PROJECT_DIR$/2020_March/calculator/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="63" lean-forward="false" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wave Shape Banner/style.css">
+    <entry file="file://$PROJECT_DIR$/2020_March/Wave Shape Banner/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wave Shape Banner/index.html">
+    <entry file="file://$PROJECT_DIR$/2020_March/Wave Shape Banner/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
@@ -293,14 +325,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rippleButton/index.html">
+    <entry file="file://$PROJECT_DIR$/2020_March/rippleButton/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rippleButton/style.css">
+    <entry file="file://$PROJECT_DIR$/2020_March/rippleButton/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1035">
           <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
@@ -314,14 +346,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wave Shape Banner/index.html">
+    <entry file="file://$PROJECT_DIR$/2020_March/Wave Shape Banner/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wave Shape Banner/style.css">
+    <entry file="file://$PROJECT_DIR$/2020_March/Wave Shape Banner/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="897">
           <caret line="39" column="18" lean-forward="false" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
@@ -335,187 +367,174 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wave Shape Banner/index.html">
+    <entry file="file://$PROJECT_DIR$/2020_March/Wave Shape Banner/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wave Shape Banner/style.css">
+    <entry file="file://$PROJECT_DIR$/2020_March/Wave Shape Banner/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="897">
           <caret line="39" column="18" lean-forward="false" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="161">
-            <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Skewed Border/index.html">
+    <entry file="file://$PROJECT_DIR$/2020_March/Skewed Border/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wave Shape Banner/food.jpg">
+    <entry file="file://$PROJECT_DIR$/2020_March/Wave Shape Banner/food.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rippleButton/style.css">
+    <entry file="file://$PROJECT_DIR$/2020_March/rippleButton/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
           <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rippleButton/index.html">
+    <entry file="file://$PROJECT_DIR$/2020_March/rippleButton/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wave Shape Banner/index.html">
+    <entry file="file://$PROJECT_DIR$/2020_March/Wave Shape Banner/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wave Shape Banner/style.css">
+    <entry file="file://$PROJECT_DIR$/2020_March/Wave Shape Banner/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
           <caret line="32" column="21" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="46" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css_arrow/style.css">
+    <entry file="file://$PROJECT_DIR$/2020_March/css_arrow/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/calculator/style.css">
+    <entry file="file://$PROJECT_DIR$/2020_March/calculator/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="604">
           <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/calculator/index.html">
+    <entry file="file://$PROJECT_DIR$/2020_March/calculator/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="10" column="63" lean-forward="false" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProductCardUIDesign/shoes.png">
+    <entry file="file://$PROJECT_DIR$/2020_March/ProductCardUIDesign/shoes.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProductCardUIDesign/index.html">
+    <entry file="file://$PROJECT_DIR$/2020_March/ProductCardUIDesign/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProductCardUIDesign/style.css">
+    <entry file="file://$PROJECT_DIR$/2020_March/ProductCardUIDesign/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="185" column="0" lean-forward="false" selection-start-line="185" selection-start-column="0" selection-end-line="185" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/parallelScrollEffect/index.html">
+    <entry file="file://$PROJECT_DIR$/2020_March/parallelScrollEffect/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CreativeMenuItem/index.html">
+    <entry file="file://$PROJECT_DIR$/2020_March/CreativeMenuItem/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/parallelScrollEffect/style.css">
+    <entry file="file://$PROJECT_DIR$/2020_March/parallelScrollEffect/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="51" column="21" lean-forward="false" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SVGStrokeAnimation/star.svg">
+    <entry file="file://$PROJECT_DIR$/2020_March/SVGStrokeAnimation/star.svg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SVGStrokeAnimation/moon.svg">
+    <entry file="file://$PROJECT_DIR$/2020_March/SVGStrokeAnimation/moon.svg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SVGStrokeAnimation/heart.svg">
+    <entry file="file://$PROJECT_DIR$/2020_March/SVGStrokeAnimation/heart.svg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SVGStrokeAnimation/index.html">
+    <entry file="file://$PROJECT_DIR$/2020_March/SVGStrokeAnimation/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SVGStrokeAnimation/style.css">
+    <entry file="file://$PROJECT_DIR$/2020_March/SVGStrokeAnimation/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="491">
           <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MansonryLayout/2.png">
+    <entry file="file://$PROJECT_DIR$/2020_March/MansonryLayout/2.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MansonryLayout/3.png">
+    <entry file="file://$PROJECT_DIR$/2020_March/MansonryLayout/3.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MansonryLayout/5.png">
+    <entry file="file://$PROJECT_DIR$/2020_March/MansonryLayout/5.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MansonryLayout/4.png">
+    <entry file="file://$PROJECT_DIR$/2020_March/MansonryLayout/4.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MansonryLayout/index.html">
+    <entry file="file://$PROJECT_DIR$/2020_March/MansonryLayout/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-130">
           <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -523,43 +542,81 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MansonryLayout/style.css">
+    <entry file="file://$PROJECT_DIR$/2020_March/MansonryLayout/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CreativeMenuItem/style.css">
+    <entry file="file://$PROJECT_DIR$/2020_March/CreativeMenuItem/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascriptClockUI/clock.png">
+    <entry file="file://$PROJECT_DIR$/2020_March/javascriptClockUI/clock.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascriptClockUI/index.html">
+    <entry file="file://$PROJECT_DIR$/2020_March/javascriptClockUI/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="445">
           <caret line="34" column="3" lean-forward="false" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020_March/javascriptClockUI/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="47" column="11" lean-forward="true" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="248">
+            <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020_March/2_5dParallaxEffects/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="17" column="56" lean-forward="false" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascriptClockUI/style.css">
+    <entry file="file://$PROJECT_DIR$/2020_March/2_5dParallaxEffects/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="47" column="11" lean-forward="true" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
+        <state relative-caret-position="393">
+          <caret line="44" column="1" lean-forward="false" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020_March/AnimatedEyesFollowMouse/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="101" column="10" lean-forward="false" selection-start-line="101" selection-start-column="1" selection-end-line="101" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020_March/AnimatedEyesFollowMouse/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding />
         </state>
       </provider>
