@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title></title>
+  <link rel="stylesheet" href="style.css" >
+</head>
+<body>
+<section>
+  <video src="video.mp4" autoplay="" muted="" loop=""></video>
+</section>
+<section>
+  <div class="content">
+    <h2>Fadeout Video Background On Scroll</h2>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pellentesque aliquam mauris, eget ultricies felis suscipit at. Sed et tincidunt leo. Proin sed faucibus augue. Maecenas sit amet nunc ultricies, consequat neque venenatis, lobortis risus. Duis mollis placerat sapien in ultricies. Aenean suscipit dui id sapien cursus, a auctor ex commodo. Vestibulum tincidunt tristique ullamcorper. Etiam ultrices luctus sapien, a tempus nunc congue vel. Morbi vel ornare lorem. Nam eu elit at ex varius varius eu nec odio. Pellentesque pretium iaculis felis, id molestie mi. Suspendisse a bibendum purus. Integer consectetur urna eget placerat commodo. Nunc id ante aliquet erat malesuada vestibulum. Nam vitae suscipit ipsum.
+
+      Pellentesque mollis orci ligula, eget porta lorem consectetur eu. Etiam id vestibulum erat. Donec ac ipsum leo. Proin a massa vel mi consectetur tincidunt quis et tortor. Aliquam et facilisis metus. In et malesuada sem, non molestie mi. Pellentesque sed metus justo. Quisque laoreet, urna sodales suscipit ultricies, lectus elit tempor mauris, non interdum orci justo sed dui. Morbi hendrerit sollicitudin aliquet. Phasellus tincidunt in urna tempus luctus. Nam aliquet nisi dui, nec blandit odio iaculis at. Morbi in neque non ipsum aliquet pellentesque.
+    </p>
+  </div>
+</section>
+<script type="text/javascript">
+  let video = document.querySelector('video');
+  window.addEventListener('scroll', function () {
+    let value = 1 + window.scrollY/-600;
+    video.style.opacity = value;
+  })
+</script>
+</body>
+</html>
